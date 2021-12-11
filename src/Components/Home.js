@@ -167,7 +167,7 @@ class Home extends Component {
                   <tr className="tr_not_header">
                     <td>(Exercism) The complete Go Path</td>
                     <td>
-                      <progress id="file" value="10" max="100"> 10% </progress>
+                      <progress id="file" value="10" max="100"> 50% </progress>
                     </td>
                   </tr>
                   <tr className="tr_not_header">
@@ -212,6 +212,12 @@ class Home extends Component {
                   </tr>
                   <tr className="tr_not_header">
                     <td>(Udemy) Amazon DynamoDB: Build out NoSQL Databases in the AWS Cloud</td>
+                    <td>
+                      <progress id="file" value="0" max="100"> 0% </progress>
+                    </td>
+                  </tr>
+                  <tr className="tr_not_header">
+                    <td>(Udemy) Hands-on Serverless Computing with Go</td>
                     <td>
                       <progress id="file" value="0" max="100"> 0% </progress>
                     </td>
